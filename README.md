@@ -1,7 +1,7 @@
 ### Hi, I’m [Slim Bouras](https://slimbouras.com) 👋 &nbsp; ![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-blue)  
 🌍 Based in **Paris, France**  
 
-🚀 **Fullstack Developer** on a journey to master the latest in web development. I’m currently honing my skills in **Next.js** and love building fast, responsive applications. My expertise covers a wide array of modern technologies:
+🚀 **Fullstack Developer** on a journey to master the latest in web development. I’m currently honing my skills in **Next.js** and love building fast, responsive applications. 
 
 ---
 
