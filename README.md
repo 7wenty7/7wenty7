@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi, I’m [Slim Bouras](https://slimbouras.com) 👋 &nbsp; ![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-blue)
 
-<!--
-**7wenty7/7wenty7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate Fullstack Developer** always learning and exploring new technologies. Currently diving into **Next.js** to build fast, dynamic applications. I specialize in:  
+&nbsp;  
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange) ![CSS3](https://img.shields.io/badge/Code-CSS3-blue) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![PHP](https://img.shields.io/badge/Code-PHP-green) ![Python](https://img.shields.io/badge/Code-Python-blue) ![React](https://img.shields.io/badge/Code-React-blue)  
+&nbsp;  
+🛠️ **Tools:**  
+![Git](https://img.shields.io/badge/Tool-Git-orange) ![Docker](https://img.shields.io/badge/Tool-Docker-blue) ![Figma](https://img.shields.io/badge/Tool-Figma-purple) ![Photoshop](https://img.shields.io/badge/Tool-Photoshop-blue)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 **Creative Interests:** I blend my coding expertise with creativity through **game design** 🎮 and **pottery** 🏺.  
+&nbsp;  
+💡 Always eager to collaborate on exciting projects and build innovative solutions. Let’s create something amazing together!
